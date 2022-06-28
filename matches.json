@@ -5,15 +5,15 @@
    "nome": "Al Thumama",
      "imagem": "TODO",
    },
-    "mandante": {
+    "Time": {
     "nome": "Holanda",
     "forca": 4,
-    "imagem": "TODO"
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/nl.webp"
     }
-    "visitante": {
+    "Time": {
     "nome": "Senegal",
     "forca": 3,
-    "imagem": "TODO"
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/sn.webp"
     }
   }
 ]
