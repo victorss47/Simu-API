@@ -1,1 +1,19 @@
-
+[
+  {
+  "descricao": "Fase de Grupos - Copa 2022",
+   "local": {
+   "nome": "Al Thumama",
+     "imagem": "TODO",
+   },
+    "mandante": {
+    "nome": "Holanda",
+    "forca": 4,
+    "imagem": "TODO"
+    }
+    "visitante": {
+    "nome": "Senegal",
+    "forca": 3,
+    "imagem": "TODO"
+    }
+  }
+]
